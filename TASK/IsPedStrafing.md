@@ -9,7 +9,7 @@ BOOL IS_PED_STRAFING(Ped ped);
 ```
 
 ```
-What's strafing?  
+Strafing is side-stepping while aiming.
 ```
 
 ## Parameters
