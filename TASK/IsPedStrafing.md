@@ -9,7 +9,7 @@ BOOL IS_PED_STRAFING(Ped ped);
 ```
 
 ```
-What's strafing?  
+Strafing is the act of moving sideways in a video game, either in relation to an enemy or the game's camera. Strafing allows a player to keep the camera focused on a target such as an enemy, while moving in a different direction.
 ```
 
 ## Parameters
